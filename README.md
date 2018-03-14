@@ -1,6 +1,6 @@
 # Artificial_Stock_Market
 
-#### 1.教学文件位于``tutorials``文件夹下，下载后可以在本地用jupyter打开，在coding上无法预览，想直接观看可移步我的[Github](https://github.com/jeffmxh/jupyter_notebook/blob/master/Artificial%20Market/Trader_basic.ipynb)，有时会加载失败多刷新几次即可。
+#### 1.教学文件位于``tutorials``文件夹下，下载后可以在本地用jupyter打开，有时会加载失败多刷新几次即可。
 
 #### 2.两个基础的类位于``utils``目录下
 
